@@ -1,11 +1,17 @@
 <h1 align="center">Salut 👋, je suis Mounouar Abderrahim</h1>
-<h3 align="center">Élève Ingénieur en informatique, électronique et mécatronique, avec un background en administration réseaux</h3>
+<h3 align="center">Ingénieur en informatique, électronique et mécatronique, avec un background en administration réseaux</h3>
 
 <h3 align="left">Me contacter :</h3>
 
 <p align="left">
   <a href="https://instagram.com/mn_abderrahim" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mn_abderrahim" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mn-abderrahim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mn_abderrahim" height="30" width="40" />
+  </a>
+  <a href="https://gitlab.com/mn_abderrahim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" alt="mn_abderrahim" height="30" width="40" />
   </a>
 </p>
 
