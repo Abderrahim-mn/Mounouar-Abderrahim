@@ -7,7 +7,7 @@
   <a href="https://instagram.com/mn_abderrahim" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mn_abderrahim" height="30" width="40" />
   </a>
-  <a href="[https://www.linkedin.com/in/Abderrahim MOUNOUAR](https://www.linkedin.com/in/abderrahim-mounouar-278a242b1/)" target="blank">
+  <a href="[https://www.linkedin.com/in/Abderrahim MOUNOUAR" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abderrahim MOUNOUAR" height="30" width="40" />
   </a>
 
