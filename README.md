@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Mounouar Abderrahim</h1>
-<h3 align="center">Ingénieur en informatique, électronique et mécatronique, avec un background en administration réseaux</h3>
+<h3 align="center">Éleve Ingénieur en informatique, électronique et mécatronique, avec un background en administration réseaux</h3>
 
 <h3 align="left">Me contacter :</h3>
 
